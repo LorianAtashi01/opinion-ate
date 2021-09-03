@@ -1,5 +1,5 @@
 // Config import
-import * as settings from '../../config/config';
+import * as settings from '../../src/config/config';
 
 describe('Listing Restaurants', () => {
   it('shows restaurants from the server', () => {
