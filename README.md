@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# opinion-ate
+
+An app for tracking reviews of sihes at different restaurants.
+
+Production: <https://opinion-ate-react-lorian.netlify.app/>
+
+Depencies are locked with a `yarn.lock`file, so please use `yarn`and not
+`npm`for intalling them.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
