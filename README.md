@@ -1,6 +1,6 @@
 # opinion-ate
 
-An app for tracking reviews of sihes at different restaurants.
+An Project for testing Cypress with React. Also includes Github Actions.
 
 Production: <https://opinion-ate-react-lorian.netlify.app/>
 
